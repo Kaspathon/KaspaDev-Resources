@@ -10,7 +10,7 @@ Welcome to the official developer resources repository for Kaspathon - "Show Us 
 
 ### Tools & Resources
 - [Developer Tools](./tools-and-sdks/developer-tools.md) - SDKs, libraries, and essential tools
-- [Existing Projects](./existing-projects/showcase.md) - Inspiration from the Kaspa ecosystem
+- [Awesome Kaspa](https://github.com/Kasbah-commons/awesome-kaspa) - Curated list of Kaspa ecosystem projects
 - [Support & Resources](./support/resources.md) - Community support and documentation
 
 ## 🔑 Essential Resources
@@ -56,10 +56,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 **Built something during Kaspathon?** Share it with the community!
 
-Add your project to the [Project Showcase](./existing-projects/showcase.md):
-- **What to include**: Project name, URL, description, features, and use case
-- **Where to add it**: `/existing-projects/showcase.md` in the appropriate category
-- **How to submit**: Open a PR or share in Discord `#show-and-tell`
+Add your project to [Awesome Kaspa](https://github.com/Kasbah-commons/awesome-kaspa):
+- **What to include**: Project name, URL, description, features, and license
+- **Where to add it**: Submit a PR to the awesome-kaspa repository in the appropriate category
+- **How to submit**: Open a PR at [awesome-kaspa](https://github.com/Kasbah-commons/awesome-kaspa) or share in Discord `#show-and-tell`
 
 Your project will inspire other developers and grow the Kaspa ecosystem! 🚀
 
