@@ -19,7 +19,7 @@ Welcome to the official developer resources repository for Kaspathon - "Show Us 
 - **[Kaspa-JS](https://github.com/K-Kluster/kaspa-js)** - Node.js/TypeScript SDK and starter kit
 - **[Rusty Kaspa](https://github.com/kaspanet/rusty-kaspa)** - Core full-node implementation in Rust
 - **[WASM SDK](https://kaspa.aspectron.org/docs/)** - Direct Rust integration in JavaScript/TypeScript
-- **[KDApp Tutorial](https://github.com/michaelsutton/kdapp)** - Complete Rust application tutorial
+- **[KDApp Tutorial](https://github.com/michaelsutton/kdapp)** - Complete Rust application tutorial (check also https://x.com/michaelsuttonil/status/1940238214817612014?s=20 )
 - **[Kaspa Wiki](https://wiki.kaspa.org/en/home)** - Community knowledge base
 
 ### Development Networks
