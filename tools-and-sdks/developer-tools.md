@@ -60,7 +60,7 @@ cargo build --release
 ```
 
 **Rust Tutorial:**
-- **[KDApp](https://github.com/michaelsutton/kdapp)** - Comprehensive tutorial for building Kaspa applications in Rust
+- **[KDApp](https://github.com/michaelsutton/kdapp)** - Comprehensive tutorial for building Kaspa applications in Rust (check also https://x.com/michaelsuttonil/status/1940238214817612014?s=20 )
 - Covers wallet operations, transactions, network communication, and UTXO handling
 
 ### WASM SDK
